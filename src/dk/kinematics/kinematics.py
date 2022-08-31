@@ -1,6 +1,7 @@
 import numpy as np
 import pandas as pd
 
+
 class TranslatingCordinateSystem:
 
     def __init__(self, r_a = None, v_a = None, a_a = None):
